@@ -1,0 +1,39 @@
+{
+    "dogs": [
+      {
+        "id": 1,
+        "name": "Cherry",
+        "age": 2,
+        "place": "Visakhapatnam",
+        "gender": "Male"
+      },
+      {
+        "name": "Rottweiler",
+        "age": "10",
+        "gender": "male",
+        "place": "uttrakhand",
+        "id": 2
+      },
+      {
+        "name": "German",
+        "age": "10",
+        "gender": "Male",
+        "place": "UK",
+        "id": 4
+      },
+      {
+        "name": "xyz",
+        "age": "11",
+        "gender": "Female",
+        "place": "sgds",
+        "id": 5
+      },
+      {
+        "name": "wdeq",
+        "age": "12",
+        "gender": "Female",
+        "place": "sgsg",
+        "id": 6
+      }
+    ]
+  }
