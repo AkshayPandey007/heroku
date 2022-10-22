@@ -35,5 +35,65 @@
         "place": "sgsg",
         "id": 6
       }
+    ],
+    "furniture": [
+      {
+        "type": "Sofa",
+        "year": "2021",
+        "Description": "Best sofa",
+        "Price": "30000",
+        "id": 5
+      },
+      {
+        "type": "Table",
+        "year": "2021",
+        "Description": "wetwt",
+        "Price": "345253",
+        "id": 6
+      },
+      {
+        "type": "Table",
+        "year": "2021",
+        "Description": "sgsr",
+        "Price": "3242",
+        "id": 7
+      },
+      {
+        "type": "Sofa",
+        "year": "2021",
+        "Description": "sfdghsdrhhrthh",
+        "Price": "1234",
+        "id": 8
+      },
+      {
+        "type": "Table",
+        "year": "2021",
+        "Description": "rtyjgfhj",
+        "Price": "4364",
+        "id": 9
+      },
+      {
+        "type": "Chair",
+        "year": "2021",
+        "Description": "rhrthjr",
+        "Price": "8888",
+        "id": 10
+      }
+    ],
+    "wishlist": [
+      {
+        "id": 1,
+        "type": "Study table",
+        "year": 2019,
+        "Description": "Wooden table with dual laptop setup",
+        "Price": 50000
+      },
+      {
+        "type": "Bed",
+        "year": "2021",
+        "Description": "Very relaxing bed with best mattress",
+        "Price": "25000",
+        "id": 4
+      }
     ]
   }
